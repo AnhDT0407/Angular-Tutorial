@@ -4,7 +4,7 @@
 
 Add bootstrap 5 as an npm package like so: [https://www.npmjs.com/package/bootstrap](https://www.npmjs.com/package/bootstrap)
 
-```javascript
+```npm
 npm i bootstrap
 ```
 
