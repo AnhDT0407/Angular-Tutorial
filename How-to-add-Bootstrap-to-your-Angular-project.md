@@ -15,9 +15,8 @@ In your angular.json add bootstrap stylesheet and javascript
 ```javascript
 "styles": [
   "src/scss/styles.scss",
-  "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+  "./node_modules/bootstrap/dist/css/bootstrap.min.css"
 ],
-
 "scripts": [
   "./node_modules/bootstrap/dist/js/bootstrap.min.js"
 ]
