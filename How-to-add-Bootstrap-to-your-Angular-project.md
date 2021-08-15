@@ -8,6 +8,8 @@ Add bootstrap 5 as an npm package like so: [https://www.npmjs.com/package/bootst
 npm i bootstrap
 ```
 
+<br />
+
 In your angular.json add bootstrap stylesheet and javascript
 
 ```javascript
@@ -21,6 +23,8 @@ In your angular.json add bootstrap stylesheet and javascript
 ]
 ```
 
+<br />
+
 Now add popperjs and add it to your scripts
 
 ```
@@ -33,6 +37,8 @@ npm install @popperjs/core
   "./node_modules/bootstrap/dist/js/bootstrap.min.js"
 ]
 ```
+
+<br />
 
 Now lets test and see if everything works accordingly  
 Add a dropdown component to your _app.component.html_
@@ -55,3 +61,5 @@ Add a dropdown component to your _app.component.html_
   </ul>
 </div>
 ```
+
+<br />
