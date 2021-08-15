@@ -34,7 +34,7 @@ npm install @popperjs/core
 ]
 ```
 
-Now lets test and see if everything works accordingly
+Now lets test and see if everything works accordingly 
 Add a dropdown component to your _app.component.html_
 
 ```html
